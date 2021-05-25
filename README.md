@@ -7,3 +7,7 @@ cd encrpt-decrypt
 
 
 python2 encrpt.py
+
+Or
+
+karmaenc_enc.py
