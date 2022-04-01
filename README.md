@@ -13,13 +13,13 @@
 
 #### Install script on Termux
 ```bash
-$ rm -rf Error
-$ git clone https://github.com/karma-kh3n/Errorv2
+$ rm -rf Premium
+$ git clone https://github.com/karma-kh3n/Premium
 ```
 #### Run script
 ```bash
-$ cd Errorv2
-$ python Errorv2.py
+$ cd Premium
+$ python Premium.py
 ```
 #### MY SOCIAL MEDIA
 
